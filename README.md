@@ -7,6 +7,6 @@ To run the model on your machine, download
 - app.py
 
 Use the following command to run the model in your local browser
-'''
+```
 streamlit run app.py
-'''
+```
